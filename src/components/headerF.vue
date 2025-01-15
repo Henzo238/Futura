@@ -46,4 +46,7 @@ a {
   font-size: inherit;
   text-decoration: none;
 }
+img {
+  margin-right: 50px;
+}
 </style>
